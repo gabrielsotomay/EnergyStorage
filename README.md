@@ -64,6 +64,35 @@ A research repository for manufacturing of renewable energy storage.
 
 
 
+## Flywheel batteries
+* Use magnetic bearings
+* Flywheel is in vacuum chamber to reduce friction
+* 
+* Very low degradation? (needs citation)
+
+## Electrostatic energy storage
+* Capacitors
+  * Long lofe cycle
+  * Instantaneous recharging
+  * Very low energy density
+  * Supercapacitors
+    * Have eletrolytic physical barried comprising of activated carbon
+      * Allows ionic conduction
+    * Higher energy density
+    * Carbon nano tube based electrodes
+      * Large surface area with small separation distance
+      * 
+ 
+
+
+## Stats
+|         | Efficiency | Column 2 | Column 3 |
+| ------- | -------: | -------: | -------: |
+| Pumped hydro  | 76-85% [1] | Data 2   | Data 3   |
+| Cryogenic energy storage | 40-50% [1]   | Data 5   | Data 6   |
+| Row 3   | Data 7   | Data 8   | Data 9   |
+
+
 #Bibliography
 
 [1] Hossain, E., Faruque, H. M. R., Sunny, M. S. H., Mohammad, N., & Nawar, N. (2020). A Comprehensive Review on Energy Storage Systems: Types, Comparison, Current Scenario, Applications, Barriers, and Potential Solutions, Policies, and Future Prospects. Energies, 13(14), 3651. https://doi.org/10.3390/en13143651
